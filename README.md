@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**wilsebbis/wilsebbis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Wil Bishop
+🎓 M.S. Computer Science
+💡 AI, ML systems, and product-driven engineering
+⚙️ Building ML pipelines, RAG systems, and production-grade apps
+📊 Focused on scalable systems, experimentation, and real-world impact
+🚀 Always building, iterating, and learning
 
-Here are some ideas to get you started:
+🔗 Portfolio: wilbishop.com
+🔗 LinkedIn: linkedin.com/in/wilbishop
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack
+Languages: Python, TypeScript, Java, C++, SQL
+ML / AI: PyTorch, Transformers, RAG, FAISS, NLP pipelines
+Frontend: Astro, React, Tailwind
+Backend / Infra: Docker, GitHub Actions, AWS, Terraform, CI/CD
+Data: PostgreSQL, pgvector, analytics & experimentation
