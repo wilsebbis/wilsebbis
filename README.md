@@ -14,10 +14,9 @@
 
 # Links
 
-🔗 Portfolio: wilbishop.com
+🔗 [Portfolio — wilbishop.com](https://wilbishop.com) 
 
-🔗 LinkedIn: linkedin.com/in/wilbishop
-
+🔗 [LinkedIn — linkedin.com/in/wilsebbis](https://linkedin.com/in/wilsebbis)
 
 # Tech Stack
 
